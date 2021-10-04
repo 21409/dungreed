@@ -1,0 +1,19 @@
+*{ margin: 0; padding: 0; }
+
+#weapon {
+	width 100px;
+	height: 100px;
+	background-color: orange;
+}
+
+#accessories {
+	width 100px;
+	height: 100px;
+	background-color: #ffff80;
+}
+
+#set {
+	width 100px;
+	height: 100px;
+	background-color: red;
+}
